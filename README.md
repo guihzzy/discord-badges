@@ -7,16 +7,23 @@ As insígnias do Discord são conquistas de aparência épica para deixar seu pe
 ## Índice
 
 - [Discord Badges 🏆](#discord-badges-)
-  - [Índice](#índice)
-  - [Insígnias Gerais](#insígnias-gerais)
-  - [Insígnias de Bot](#insígnias-de-bot)
-  - [Níveis de Assinatura Nitro](#níveis-de-assinatura-nitro)
-  - [Níveis de Impulsão Nitro](#níveis-de-impulsão-nitro)
+- [Índice](#índice)
+- [Primeiro de Abril](#primeiro-de-abril)
+- [Insígnias Gerais](#insígnias-gerais)
+- [Insígnias de Bot](#insígnias-de-bot)
+- [Níveis de Assinatura Nitro](#níveis-de-assinatura-nitro)
+- [Níveis de Impulsão Nitro](#níveis-de-impulsão-nitro)
 - [Insígnias de Servidor](#insígnias-de-servidor)
 - [Distintivos Especiais](#distintivos-especiais)
 - [Insígnias de Guilda](#insígnias-de-guilda)
-  - [Hall da Fama](#hall-da-fama)
-  - [Registro de Alterações de Insígnias](#registro-de-alterações-de-insígnias)
+- [Hall da Fama](#hall-da-fama)
+- [Registro de Alterações de Insígnias](#registro-de-alterações-de-insígnias)
+
+## Primeiro de Abril
+
+| Título | Insígnia | Obtível? | Concedida por | Flag |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Primeiro de Abril 2026 | <img src="/assets/april_fools_2026.svg" href="https://cdn.discordapp.com/badge-icons/ca105ad9cfc8580c765101d17bbb2323.png"> | ❌ | No Dia das Mentiras de 2026, o Discord lançou o Last Meadow Online, um "Jogo de RPG Incremental Massivamente Multijogador Baseado no Discord" (DBMMIRPG) disponível de 1 a 7 de abril de 2026. Os jogadores colaboram diretamente no app para ajudar o Wumpus a derrotar o "Grass Toucher" e podem ganhar uma insígnia de perfil e uma decoração de avatar por tempo limitado | (Desconhecido) |
 
 ## Insígnias Gerais
 
